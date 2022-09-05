@@ -57,3 +57,13 @@
    - nome
    - email
    - token 
+   
+## Links
+
+**Repositório de Backend**: https://github.com/aranchipe/Bemol-backend
+
+**Repositório de Frontend**: https://github.com/aranchipe/Bemol-frontend
+
+**URL da aplicação funcionando**: https://bemol.netlify.app/
+
+**URL da API**: https://bemol-backend.herokuapp.com
