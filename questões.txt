@@ -1,0 +1,20 @@
+1 - A diferença básica entre Cloud e On-Premise é que no sistema Cloud, o seu sistema
+está na nuvem (como o próprio nome já diz), então qualquer pessoa de qualquer
+computador consegue acessá-lo. Já no sistema On-Premise, é necessário instalar o
+sitema na sua máquina. A solução deve ser disponibilizada em Cloud, já que precisamos
+possibilitar que o usuário inicie a interação em qualquer canal e continue a interação
+a partir de qualquer canal.
+
+2 - Acredito que para um projeto feito em equipe, deve-se utilizar uma metodologia ágil,
+como SCRUM. Além disso seria interessante utilizar um software capaz de organizar as tarefas
+como a plataforma "Trello" por exemplo.
+
+3 - Eu me sinto capaz de liderar essa equipe, pois conheço a metodologia SCRUM, além de
+saber organizar as tarefas de cada um. Além disso sou muito bom em ensinar, coisa que,
+na minha opinião, todo líder deve ser. E sei como construir a solução do início ao fim.
+
+4 - 
+
+5 - Acho muito válido esse desafio, para que o contratante veja se o candidato tem o 
+conhecimento técnico que afirma ter, além de ver se a forma como foi feito o desafio
+encaixa com a forma da empresa trabalhar .
